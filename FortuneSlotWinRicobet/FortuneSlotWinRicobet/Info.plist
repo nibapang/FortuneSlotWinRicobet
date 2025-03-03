@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb9439047012819245</string>
+			</array>
+		</dict>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>FacebookAdvertiserIDCollectionEnabled</key>
+	<true/>
+	<key>FacebookAppID</key>
+	<string>9439047012819245</string>
+	<key>FacebookClientToken</key>
+	<string>f38e5e18748d2d89089a954369dce8a1</string>
+	<key>FacebookDisplayName</key>
+	<string>FortuneSlot WinRicobet</string>
+	<key>NSAdvertisingAttributionReportEndpoint</key>
+	<string>https://appsflyer-skadnetwork.com/</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>FortuneSlot WinRicobet collects device interaction and gameplay data to enhance user experience, optimize game performance, and provide personalized content. This may include in-game actions, progress tracking, and device-specific data to improve game mechanics, suggest new challenges, and ensure smooth functionality. The data is used solely for enhancing gameplay, delivering updates, and refining features to create a seamless and engaging experience. We respect user privacy and do not use collected data for any unauthorized purposes</string>
+</dict>
+</plist>
