@@ -605,7 +605,7 @@
 				CODE_SIGN_ENTITLEMENTS = FortuneSlotWinRicobet/FortuneSlotWinRicobet.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FortuneSlotWinRicobet/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "FortuneSlot WinRicobet";
@@ -643,7 +643,7 @@
 				CODE_SIGN_ENTITLEMENTS = FortuneSlotWinRicobet/FortuneSlotWinRicobet.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FortuneSlotWinRicobet/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "FortuneSlot WinRicobet";
